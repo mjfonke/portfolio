@@ -54,6 +54,7 @@ h4 {
 
 h5 {
     font-weight: bold;
+    font-family: 'Slabo 27px', serif;
 }
 
 .img {
@@ -139,16 +140,21 @@ h5 {
 }
 
 a :hover {
-    color: #9ee3d9
+    color: #9ee3d9;
 }
 
 .icon-about {
-    color: #d87a95
+    color: #d87a95;
 }
 
 .learn {
     font-family: 'Merriweather', serif;
 }
+
+.email-link {
+    color: #d87a95;
+}
+
 
 footer {
     height: 80px;
